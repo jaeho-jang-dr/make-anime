@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python main_pipeline.py:*)",
+      "Bash(ls:*)",
+      "WebSearch",
+      "WebFetch(domain:pixabay.com)",
+      "WebFetch(domain:blog.google)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

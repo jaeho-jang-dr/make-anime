@@ -1,0 +1,61 @@
+======================================
+혜완이의 밀양 일주일 - BGM 다운로드
+======================================
+
+선택된 BGM: Emotional Piano Music
+아티스트: Keys of Moon Music
+라이선스: 완전 무료, 크레딧 불필요
+
+--------------------------------------
+다운로드 링크:
+--------------------------------------
+
+방법 1 (추천):
+https://pixabay.com/music/modern-classical-emotional-piano-music-256262/
+
+방법 2 (검색):
+https://pixabay.com/music/search/emotional%20piano/
+→ 상위 트랙 중 "Emotional Piano Music" 선택
+
+--------------------------------------
+다운로드 절차:
+--------------------------------------
+
+1. 위 링크 클릭
+2. 페이지에서 재생 버튼 눌러 들어보기
+3. "Free Download" 녹색 버튼 클릭
+4. MP3 파일 다운로드
+5. 파일명을 "main_bgm.mp3"로 변경
+6. 아래 폴더에 저장:
+   local_files/anime-pipeline/audio/bgm/main_bgm.mp3
+
+--------------------------------------
+트랙 정보:
+--------------------------------------
+
+길이: 3:35 (3분 35초)
+사용법: 3번 반복 재생 = 10분 45초 (완벽!)
+템포: Slow, Emotional
+악기: Piano
+분위기: Warm, Family, Memories
+
+--------------------------------------
+대체 트랙 (마음에 안 들면):
+--------------------------------------
+
+1. "Emotional Soft Piano Music"
+   https://pixabay.com/music/modern-classical-emotional-soft-piano-music-358515/
+
+2. "An Emotional Piano"
+   https://pixabay.com/music/modern-classical-an-emotional-piano-146119/
+
+--------------------------------------
+완료 확인:
+--------------------------------------
+
+다운로드 완료 후 확인:
+- 파일 위치: local_files/anime-pipeline/audio/bgm/main_bgm.mp3
+- 파일 크기: 약 3-5MB
+- 재생 시간: 3:35
+
+======================================

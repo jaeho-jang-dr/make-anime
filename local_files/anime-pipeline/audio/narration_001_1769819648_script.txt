@@ -1,0 +1,3 @@
+Voice: narrator
+Type: narration
+Text: 옛날, 밤하늘에는 수천 개의 별이 빛났습니다...

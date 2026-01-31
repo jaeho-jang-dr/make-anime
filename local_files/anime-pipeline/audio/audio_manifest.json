@@ -1,0 +1,73 @@
+{
+  "total_clips": 3,
+  "clips": [
+    {
+      "clip_id": "narration_001_1769819648",
+      "type": "narration",
+      "scene": 1,
+      "duration": 2.4,
+      "file": "/home/claude/anime-pipeline/audio/narration_001_1769819648_script.txt",
+      "text": "옛날, 밤하늘에는 수천 개의 별이 빛났습니다..."
+    },
+    {
+      "clip_id": "dialogue_002_1769819648",
+      "type": "dialogue",
+      "scene": 2,
+      "duration": 1.6,
+      "file": "/home/claude/anime-pipeline/audio/dialogue_002_1769819648_script.txt",
+      "text": "별들아... 어디로 간 거니?"
+    },
+    {
+      "clip_id": "dialogue_003_1769819648",
+      "type": "dialogue",
+      "scene": 3,
+      "duration": 2.8000000000000003,
+      "file": "/home/claude/anime-pipeline/audio/dialogue_003_1769819648_script.txt",
+      "text": "루나! 드디어 찾았어! 별들을 구할 수 있어!"
+    }
+  ],
+  "sfx_suggestions": [
+    {
+      "scene_number": 1,
+      "effect_name": "wind howling",
+      "suggested_source": "https://freesound.org/search/?q=wind",
+      "timing": "match with visual",
+      "volume": "0.3-0.5 (배경음)"
+    },
+    {
+      "scene_number": 1,
+      "effect_name": "distant bell",
+      "suggested_source": "https://freesound.org/search/?q=distant+bell",
+      "timing": "match with visual",
+      "volume": "0.3-0.5 (배경음)"
+    },
+    {
+      "scene_number": 2,
+      "effect_name": "soft wind",
+      "suggested_source": "https://freesound.org/search/?q=wind",
+      "timing": "match with visual",
+      "volume": "0.3-0.5 (배경음)"
+    },
+    {
+      "scene_number": 2,
+      "effect_name": "fabric rustling",
+      "suggested_source": "https://freesound.org/search/?q=fabric+rustling",
+      "timing": "match with visual",
+      "volume": "0.3-0.5 (배경음)"
+    },
+    {
+      "scene_number": 3,
+      "effect_name": "magical chime",
+      "suggested_source": "https://freesound.org/search/?q=magic+spell",
+      "timing": "match with visual",
+      "volume": "0.3-0.5 (배경음)"
+    },
+    {
+      "scene_number": 3,
+      "effect_name": "sparkle sounds",
+      "suggested_source": "https://freesound.org/search/?q=sparkle+sounds",
+      "timing": "match with visual",
+      "volume": "0.3-0.5 (배경음)"
+    }
+  ]
+}

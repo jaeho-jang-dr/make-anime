@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+local_files/anime-pipeline/node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Generated videos (too large for git)
+local_files/anime-pipeline/scenes/clips/*.mp4
+local_files/anime-pipeline/final/*.mp4
+
+# Keep directory structure but ignore large media files
+*.mp4
+*.mov
+*.avi
+!placeholder.mp4

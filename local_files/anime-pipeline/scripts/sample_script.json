@@ -1,0 +1,81 @@
+{
+  "title": "The Last Starkeeper",
+  "genre": "판타지",
+  "total_duration_minutes": 10,
+  "synopsis": "어둠이 세상을 덮은 후, 마지막 별지기 소녀 루나가 잃어버린 별들을 찾아 떠나는 여정",
+  "style_reference": "신카이 마코토 스타일 - 선명한 색감과 빛의 표현",
+  "color_palette": "딥 블루, 골드, 실버, 보라색 그라데이션",
+  "characters": [
+    {
+      "name": "루나 (Luna)",
+      "description": "16세 소녀, 마지막 별지기",
+      "visual_traits": "young girl, 16 years old, long silver hair, bright blue eyes, wearing a dark blue cloak with star patterns, holding a glowing lantern, determined expression",
+      "personality": "용감하고 순수함, 약간 고집스러움",
+      "voice_style": "young female, gentle but determined"
+    },
+    {
+      "name": "노바 (Nova)",
+      "description": "루나의 동반자, 작은 별 정령",
+      "visual_traits": "tiny glowing spirit, star-shaped, golden light, cute round eyes, floating, leaving sparkle trail",
+      "personality": "장난기 많고 충성스러움",
+      "voice_style": "high pitched, playful"
+    },
+    {
+      "name": "그림자 왕 (Shadow King)",
+      "description": "별빛을 삼킨 어둠의 존재",
+      "visual_traits": "tall dark figure, flowing shadow cloak, glowing red eyes, crown of darkness, intimidating presence",
+      "personality": "위엄있고 냉혹함",
+      "voice_style": "deep male, menacing"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 8,
+      "description": "어둠에 잠긴 마을의 전경. 하늘에 별이 하나도 없다.",
+      "visual_prompt": "dark fantasy village at night, no stars in sky, dim lantern lights, abandoned streets, gothic architecture, misty atmosphere",
+      "character_action": "없음 - 배경 설정 장면",
+      "animation_prompt": "slow pan across village, mist slowly moving, flickering lantern lights",
+      "dialogue": null,
+      "narration": "옛날, 밤하늘에는 수천 개의 별이 빛났습니다...",
+      "sound_effects": [
+        "wind howling",
+        "distant bell"
+      ],
+      "mood": "우울하고 신비로움",
+      "camera_movement": "slow pan right"
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 8,
+      "description": "루나가 창가에서 텅 빈 하늘을 바라본다.",
+      "visual_prompt": "anime girl silhouette by window, looking at dark empty sky, moonlit room, curtains blowing, melancholic atmosphere",
+      "character_action": "루나가 창밖을 응시하며 한숨을 쉰다",
+      "animation_prompt": "girl sighing, curtains gently blowing, subtle body movement",
+      "dialogue": "별들아... 어디로 간 거니?",
+      "narration": null,
+      "sound_effects": [
+        "soft wind",
+        "fabric rustling"
+      ],
+      "mood": "그리움과 결심",
+      "camera_movement": "slow zoom in"
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 8,
+      "description": "노바가 루나 앞에 나타나 빛을 발한다.",
+      "visual_prompt": "glowing star spirit appearing before girl in dark room, magical sparkles, warm golden light illuminating face, surprised expression",
+      "character_action": "노바가 나타나고, 루나가 놀라서 뒤로 물러난다",
+      "animation_prompt": "spirit materializing with sparkles, girl stepping back in surprise, light spreading",
+      "dialogue": "루나! 드디어 찾았어! 별들을 구할 수 있어!",
+      "narration": null,
+      "sound_effects": [
+        "magical chime",
+        "sparkle sounds"
+      ],
+      "mood": "희망과 놀라움",
+      "camera_movement": "static with light effects"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Voice: young_female
+Type: dialogue
+Text: 루나! 드디어 찾았어! 별들을 구할 수 있어!

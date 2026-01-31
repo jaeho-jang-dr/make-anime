@@ -1,0 +1,35 @@
+{
+  "project": {
+    "name": "AI Anime Pipeline",
+    "version": "1.0.0",
+    "target_duration_minutes": 10,
+    "clip_duration_seconds": 8,
+    "resolution": "720p",
+    "fps": 24
+  },
+  "api_keys": {
+    "claude_cli": "환경변수에서 로드",
+    "gemini": "환경변수에서 로드", 
+    "grok": "환경변수에서 로드"
+  },
+  "tools": {
+    "script_generator": "claude",
+    "character_designer": "gemini",
+    "scene_generator": "whisk",
+    "animator": "whisk_animate",
+    "voice_generator": "google_tts",
+    "music_generator": "grok",
+    "editor": "ffmpeg"
+  },
+  "output_settings": {
+    "format": "mp4",
+    "video_codec": "libx264",
+    "audio_codec": "aac",
+    "bitrate": "4000k"
+  },
+  "whisk_settings": {
+    "monthly_limit": 100,
+    "clip_length": 8,
+    "style_consistency": true
+  }
+}

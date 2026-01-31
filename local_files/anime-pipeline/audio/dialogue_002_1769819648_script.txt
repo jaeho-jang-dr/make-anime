@@ -1,0 +1,3 @@
+Voice: young_female
+Type: dialogue
+Text: 별들아... 어디로 간 거니?
