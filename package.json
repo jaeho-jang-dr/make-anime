@@ -1,0 +1,35 @@
+{
+  "name": "make-anime",
+  "version": "1.0.0",
+  "description": "AI를 활용한 **실사(Photorealistic) 스타일 영상 제작** 시스템입니다.",
+  "main": "index.js",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render HyewanStory out/hyewan-test.mp4",
+    "preview": "remotion preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaeho-jang-dr/make-anime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jaeho-jang-dr/make-anime/issues"
+  },
+  "homepage": "https://github.com/jaeho-jang-dr/make-anime#readme",
+  "dependencies": {
+    "@remotion/cli": "^4.0.414",
+    "@remotion/player": "^4.0.414",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.414"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.10",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^5.9.3"
+  }
+}
